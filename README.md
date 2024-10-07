@@ -16,5 +16,4 @@ This document provides essential information for GPRec.
 
 
 ## Important Notes
-- The code is anonymized for blind review purposes.
 - Performance might be different due to the varied environment.
